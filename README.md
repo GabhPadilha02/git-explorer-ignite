@@ -3,7 +3,7 @@
 ## Prints:
 
 ### Desktop:
-![image]()
+![image](https://github.com/GabhPadilha02/git-explorer-ignite/blob/main/prints/localhost_8080_.png?raw=true)
 
 ### Responsive:
-![image]()
+![image](https://github.com/GabhPadilha02/git-explorer-ignite/blob/main/prints/localhost_8080_(iPhone%20SE).png?raw=true)
